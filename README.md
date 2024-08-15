@@ -23,7 +23,7 @@
   <img align="center" alt="Well-Windows" src="./icons/Windows-Dark.svg" width="48">
   <img align="center" alt="Well-Vscode" src="./icons/VSCode-Dark.svg" width="48">
 </div>
-<br><hr/><br>
+<hr/>
 <div>  
   <a href="https://instagram.com/wellxsla" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	 
   <a href = "mailto:welliton.slav@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
