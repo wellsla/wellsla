@@ -2,7 +2,7 @@
 
 - 🔭 Working as full-stack developer
 - 🌱 Studying Laravel/Vue
-- 📫 welliton.sla@gmail.com
+- 📫 welliton.slav@gmail.com
 
 <div align="center">
   <div style="display: inline_block"><br>
