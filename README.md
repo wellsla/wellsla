@@ -25,7 +25,7 @@
 </div>
 
 <div>  
-  <a href="https://instagram.com/wellxsla" target="_blank"><img src="./icons/Instagram.svg" target="_blank"></a> 	 
-  <a href = "mailto:welliton.slav@gmail.com"><img src="./icons/Gmail-Dark.svg" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/welliton-slaviero-61aa86243/" target="_blank"><img src="./icons/LinkedIn.svg" target="_blank"></a> 
+  <a href="https://instagram.com/wellxsla" target="_blank"><img src="./icons/Instagram.svg" width="24" target="_blank"></a> 	 
+  <a href = "mailto:welliton.slav@gmail.com"><img src="./icons/Gmail-Dark.svg" width="24" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/welliton-slaviero-61aa86243/" target="_blank"><img src="./icons/LinkedIn.svg" width="24" target="_blank"></a> 
 </div>
