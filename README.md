@@ -5,7 +5,7 @@
 - 📫 welliton.slaviero@hotmail.com
 - 😄 Pronouns: ele/dele
 
-<div style="display: flex; display-direction: column; justify-content: center; align-items:center;">
+<div align="center">
   <div style="display: inline_block"><br>
     <img align="center" alt="Well-Js" src="./icons/JavaScript.svg" width="48">
     <img align="center" alt="Well-Ts" src="./icons/TypeScript.svg" width="48">
