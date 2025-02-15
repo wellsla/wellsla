@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 Working as full-stack developer
-- 🌱 Studying Laravel/Vue
+- 🌱 Studying new tools
 - 📫 welliton.slav@gmail.com
 
 <div align="center">
