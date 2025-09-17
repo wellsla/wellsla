@@ -31,7 +31,7 @@ I'm a Front-End Developer from Brazil, passionate about creating intuitive and h
 
 📫 How to reach me
 <p align="left">
-<a href="mailto:welliton.slaviero@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:welliton.slav@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/welliton-slaviero-61aa86243/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
