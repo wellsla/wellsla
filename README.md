@@ -22,10 +22,10 @@ Sou um Desenvolvedor Front-End do Brasil, apaixonado por criar experiências dig
 📊 Minhas Estatísticas no GitHub
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=wellsla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&langs_count=8&theme=dracula"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellsla&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </p>
 
@@ -33,7 +33,7 @@ Lembre-se de substituir `` pelo seu nome de usuário.
 
 📫 Como me encontrar
 <p align="left">
-<a href="mailto:welliton.slav@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:welliton.slaviero@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/welliton-slaviero-61aa86243/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
