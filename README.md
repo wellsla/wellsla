@@ -1,4 +1,4 @@
-pt-BR
+**pt-BR**
 
 Olá! 👋 Eu sou o Welliton Slaviero
 <p align="left">
@@ -37,7 +37,7 @@ Sou um Desenvolvedor Front-End do Brasil, apaixonado por criar experiências dig
 <a href="https://www.linkedin.com/in/welliton-slaviero-61aa86243/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-en-US
+**en-US**
 
 Hi there! 👋 I'm Welliton Slaviero
 <p align="left">
