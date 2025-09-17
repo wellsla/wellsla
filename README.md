@@ -1,27 +1,40 @@
-## Hi there 👋
+Olá! 👋 Eu sou o Welliton Slaviero
+<p align="left">
+Sou um Desenvolvedor Front-End do Brasil, apaixonado por criar experiências digitais intuitivas e de alta performance. Com mais de 5 anos de experiência, meu foco principal é o ecossistema JavaScript/TypeScript, especialmente com React.js e Next.js, mas também possuo sólida vivência com Laravel e PostgreSQL.
+</p>
 
-- 🔭 Working as full-stack developer
-- 🌱 Studying new tools
-- 📫 welliton.slav@gmail.com
+🚀 Tecnologias e Ferramentas
+<p align="left">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-<div align="center">
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Well-Js" src="./icons/JavaScript.svg" width="48">
-    <img align="center" alt="Well-Ts" src="./icons/TypeScript.svg" width="48"> 
-    <img align="center" alt="Well-React" src="./icons/React-Dark.svg" width="48">
-    <img align="center" alt="Well-Vue" src="./icons/VueJS-Dark.svg" width="48">
-    <img align="center" alt="Well-Vuetify" src="./icons/Vuetify-Dark.svg" width="48">
-    <img align="center" alt="Well-Pinia" src="./icons/Pinia-Dark.svg" width="48">
-    <img align="center" alt="Well-HTML" src="./icons/HTML.svg" width="48">
-    <img align="center" alt="Well-CSS" src="./icons/CSS.svg" width="48">
-    <img align="center" alt="Well-Tailwind" src="./icons/TailwindCSS-Dark.svg" width="48">   
-    <img align="center" alt="Well-PHP" src="./icons/PHP-Dark.svg" width="48">
-    <img align="center" alt="Well-Postgres" src="./icons/PostgreSQL-Dark.svg" width="48">    
-    <img align="center" alt="Well-Ubuntu" src="./icons/Ubuntu-Dark.svg" width="48">   
-  </div>
-  <hr/>
-  <div>     
-    <a href = "mailto:welliton.slav@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/welliton-slaviero-61aa86243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
-</div>
+📊 Minhas Estatísticas no GitHub
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&langs_count=8&theme=dracula"/>
+</a>
+</p>
+
+Lembre-se de substituir `` pelo seu nome de usuário.
+
+📫 Como me encontrar
+<p align="left">
+<a href="mailto:welliton.slav@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/welliton-slaviero-61aa86243/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+🌱 Atualmente estou aprofundando meus conhecimentos em arquitetura de micro-frontends e testes automatizados.
