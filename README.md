@@ -1,3 +1,5 @@
+pt-BR
+
 Olá! 👋 Eu sou o Welliton Slaviero
 <p align="left">
 Sou um Desenvolvedor Front-End do Brasil, apaixonado por criar experiências digitais intuitivas e de alta performance. Com mais de 5 anos de experiência, meu foco principal é o ecossistema JavaScript/TypeScript, especialmente com React.js e Next.js, mas também possuo sólida vivência com Laravel e PostgreSQL.
@@ -34,6 +36,8 @@ Sou um Desenvolvedor Front-End do Brasil, apaixonado por criar experiências dig
 <a href="mailto:welliton.slav@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/welliton-slaviero-61aa86243/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+en-US
 
 Hi there! 👋 I'm Welliton Slaviero
 <p align="left">
