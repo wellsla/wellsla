@@ -21,16 +21,6 @@ Sou um Desenvolvedor Front-End do Brasil, apaixonado por criar experiências dig
 <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-📊 Minhas Estatísticas no GitHub
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=wellsla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellsla&layout=compact&langs_count=8&theme=dracula"/>
-</a>
-</p>
-
 📫 Como me encontrar
 <p align="left">
 <a href="mailto:welliton.slav@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
