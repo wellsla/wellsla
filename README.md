@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Welliton Slaviero  
 
-Sou um **Desenvolvedor Front-End** do Brasil, apaixonado por criar **experiências digitais intuitivas, performáticas e acessíveis**.  
+Sou um **Desenvolvedor Fullstack** do Brasil, apaixonado por criar **experiências digitais intuitivas, performáticas e acessíveis**.  
 Com mais de **6 anos de experiência**, tenho foco no **ecossistema JavaScript/TypeScript**, com especialidade em **Vue.js**, **React.js** e **Next.js**.  
-Também possuo sólida vivência com **Laravel** e **MySQL**, o que me permite colaborar com equipes fullstack e entender o produto de ponta a ponta.
+Também possuo sólida vivência com **Laravel** e **PostgreSQL**, o que me permite colaborar com equipes fullstack e compreender o produto de ponta a ponta.
 
 💡 Gosto de transformar **desafios de UI/UX em soluções elegantes e escaláveis**, sempre com atenção à performance e à experiência do usuário.  
 Atualmente, venho me aprofundando em **Design Systems com Storybook**, **PrimeVue**, **componentização** e **boas práticas de arquitetura frontend**.
@@ -23,7 +23,7 @@ Atualmente, venho me aprofundando em **Design Systems com Storybook**, **PrimeVu
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
@@ -54,9 +54,9 @@ Atualmente, estou interessado em contribuir com **times que valorizam qualidade,
 
 # 🇬🇧 Hi there! I'm Welliton Slaviero
 
-I'm a **Front-End Developer** from Brazil, passionate about creating **intuitive, high-performance, and accessible** digital experiences.  
+I'm a **Fullstack Developer** from Brazil, passionate about creating **intuitive, high-performance, and accessible** digital experiences.  
 With over **6 years of experience**, I focus on the **JavaScript/TypeScript ecosystem**, mainly working with **Vue.js**, **React.js**, and **Next.js**.  
-I also have a solid background in **Laravel** and **MySQL**, which helps me collaborate effectively with backend and DevOps teams.
+I also have a solid background in **Laravel** and **PostgreSQL**, which helps me collaborate effectively with backend and DevOps teams.
 
 💡 I love turning **UI/UX challenges into scalable, elegant solutions**, with an eye for performance and maintainability.  
 Recently, I’ve been deepening my experience with **Design Systems (Storybook)**, **PrimeVue**, and **frontend architecture best practices**.
