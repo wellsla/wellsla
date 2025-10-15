@@ -1,11 +1,11 @@
 # 👋 Olá, eu sou o Welliton Slaviero  
 
 Sou um **Desenvolvedor Fullstack** do Brasil, apaixonado por criar **experiências digitais intuitivas, performáticas e acessíveis**.  
-Com mais de **6 anos de experiência**, tenho foco no **ecossistema JavaScript/TypeScript**, com especialidade em **Vue.js**, **React.js** e **Next.js**.  
+Com mais de **5 anos de experiência**, tenho foco no **ecossistema JavaScript/TypeScript**, com especialidade em **Vue.js**, **React.js** e **Next.js**.  
 Também possuo sólida vivência com **Laravel** e **PostgreSQL**, o que me permite colaborar com equipes fullstack e compreender o produto de ponta a ponta.
 
 💡 Gosto de transformar **desafios de UI/UX em soluções elegantes e escaláveis**, sempre com atenção à performance e à experiência do usuário.  
-Atualmente, venho me aprofundando em **Design Systems com Storybook**, **PrimeVue**, **componentização** e **boas práticas de arquitetura frontend**.
+Atualmente, venho me aprofundando em **Design Systems com Storybook**, **PrimeVue**, **componentização** e **boas práticas de arquitetura**.
 
 ---
 
@@ -37,7 +37,7 @@ Atualmente, venho me aprofundando em **Design Systems com Storybook**, **PrimeVu
 > Acredito que **software é uma ferramenta para crescimento** — das empresas, das pessoas e do país.  
 > Por isso, busco sempre desenvolver soluções que **ajudem negócios a crescerem** e **melhorem a vida dos usuários**.  
 
-Atualmente, estou interessado em contribuir com **times que valorizam qualidade, colaboração e impacto real no produto** — especialmente em empresas como a **Piperun**, que compartilham essa visão.
+Atualmente, estou interessado em contribuir com **times que valorizam qualidade, colaboração e impacto real no produto**, que compartilham essa visão.
 
 ---
 
@@ -55,11 +55,11 @@ Atualmente, estou interessado em contribuir com **times que valorizam qualidade,
 # 🇬🇧 Hi there! I'm Welliton Slaviero
 
 I'm a **Fullstack Developer** from Brazil, passionate about creating **intuitive, high-performance, and accessible** digital experiences.  
-With over **6 years of experience**, I focus on the **JavaScript/TypeScript ecosystem**, mainly working with **Vue.js**, **React.js**, and **Next.js**.  
+With over **5 years of experience**, I focus on the **JavaScript/TypeScript ecosystem**, mainly working with **Vue.js**, **React.js**, and **Next.js**.  
 I also have a solid background in **Laravel** and **PostgreSQL**, which helps me collaborate effectively with backend and DevOps teams.
 
 💡 I love turning **UI/UX challenges into scalable, elegant solutions**, with an eye for performance and maintainability.  
-Recently, I’ve been deepening my experience with **Design Systems (Storybook)**, **PrimeVue**, and **frontend architecture best practices**.
+Recently, I’ve been deepening my experience with **Design Systems (Storybook)**, **PrimeVue**, and **architecture best practices**.
 
 ---
 
@@ -74,7 +74,7 @@ Recently, I’ve been deepening my experience with **Design Systems (Storybook)*
 > I believe software should **empower growth — for companies, people, and the world**.  
 > That’s why I aim to build products that **help businesses scale** while **delivering real value to users**.
 
-Currently, I’m looking for opportunities in **teams that value collaboration, product impact, and engineering excellence**, like **Piperun**.
+Currently, I’m looking for opportunities in **teams that value collaboration, product impact, and engineering excellence**.
 
 ---
 
