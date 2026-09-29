@@ -7,7 +7,7 @@ I work across **Vue 3 / React + TypeScript** front ends, **Laravel/PHP** APIs an
 - ⚡ **Real-time product features** — live notifications, multi-tab connections with SharedWorkers, WebSockets
 - 🧭 **Legacy modernization** — PHP monolith → Laravel APIs + Vue 3 SPA + design system (Storybook)
 - 📺 **React Native + Kotlin** queue-calling app running in credit-union branches nationwide
-- 🤖 **Agent skills & workflows** for Claude Code — see [well-agent-skills](https://github.com/wellsla/well-agent-skills)
+- 🤖 **Agent skills & workflows** for Claude Code
 - 🔍 800+ code reviews in the last 10 months
 
 ### Stack
