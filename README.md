@@ -10,6 +10,13 @@ I work across **Vue 3 / React + TypeScript** front ends, **Laravel/PHP** APIs an
 - 🤖 **Agent skills & workflows** for Claude Code
 - 🔍 800+ code reviews in the last 10 months
 
+### Now
+- Shipping full-stack features in a B2B CRM (Vue 3 + TS, Laravel, legacy PHP)
+- Writing agent skills and ADRs for a spec-driven, AI-assisted workflow
+
+### Next (learning in public)
+- Node.js/NestJS APIs · AWS (Lambda, S3, RDS) · Playwright E2E · LLM apps with RAG
+
 ### Stack
 `TypeScript` `Vue 3` `React` `Next.js` `PrimeVue` `Tailwind` `Storybook` `Laravel` `PostgreSQL` `Docker` `GitHub Actions` `Claude Code` `MCP`
 
